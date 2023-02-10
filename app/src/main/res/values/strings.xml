@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="channel_description" translatable="false">this a channel description.</string>
+    <string name="channel_name" translatable="false">channelName</string>
+    <string name="title_notify">Notification Example</string>
+    <string name="content_notify">This is a notification example</string>
+    <string name="channel_id">notification</string>
+
+
+</resources>
+
+<!--    Notification Example-->
+<!--    This is a notification example-->
